@@ -1,0 +1,2 @@
+구글벡터모델-slim-download
+https://github.com/eyaler/word2vec-slim
